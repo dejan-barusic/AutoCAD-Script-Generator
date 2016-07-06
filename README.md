@@ -1,6 +1,6 @@
 # AutoCAD-Script-Generator
 
-Simple command line tool for Windows that gets all dwg files in current folder and creates a script in AutoCAD format for each file.
+Simple command line tool for Windows writen in C++ that gets all dwg files in current folder and creates a script in AutoCAD format for each file.
 
 Script line is in format:
 _.open "ABSOLUTE FILE PATH" AUTOCAD_MACRO_NAME _.qsave _.close
